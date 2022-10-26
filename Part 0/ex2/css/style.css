@@ -1,0 +1,22 @@
+#heading {
+	color: green;
+	text-shadow: 1px 2px 3px red, 2px 1px 2px yellow;
+	border: solid 1px black;
+	text-align: center;
+	margin: 20px;
+}
+
+body {
+	background-color: yellow;
+}
+
+#tab {
+	text-align: center;
+	color: violet;
+}
+
+#tab th {
+	text-align: center;
+	color: blue;
+	font-weight: bold;
+}
